@@ -1,18 +1,17 @@
 - image: /uploads/1.jpg
   caption: Flamingo - San Jose, US
-- image: /uploads/2.jpg
+- image: /uploads/2.png
   caption: Giraffe - Wellington, NZ
-- image: /uploads/3.jpg
+- image: /uploads/3.png
   caption: Penguin - Mexico City, MX
 - image: /uploads/4.jpg
   caption: Kingfisher - London, GB
-- image: /uploads/5.jpg
+- image: /uploads/5.png
   caption: Zebra - Vegas, US
-- image: /uploads/6.jpg
+- image: /uploads/6.png
   caption: Fox - San Diego, US
 - image: /uploads/7.jpg
   caption: Parrot - Queenstown, NZ
-- image: /uploads/8.jpg
+- image: /uploads/8.png
   caption: Peacock - Seattle, US
-- image: /uploads/9.jpg
-  caption: Pig - Bangkok, TH
+
